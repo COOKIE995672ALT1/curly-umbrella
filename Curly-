@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://pastefy.app/0NdgI4MN/raw"))()
+loadstring(game:HttpGet("http://vpaste.net/SVnRK"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ZusumeHub/ZusumeHub/refs/heads/main/Gyr2"))()
