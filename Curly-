@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://pastefy.app/27LKZDX5/raw"))()
+loadstring(game:HttpGet("http://vpaste.net/69BMu"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SpaceScriptHUB/petspawner/refs/heads/main/GrowaGardenVisual",true))()
